@@ -71,12 +71,13 @@ menu a:hover:not(.active) {
 }
 
 h1{
-  color: #28c5da;
+  color: #28dacb;
+  font-size: 33px;
 }
 
 h1 img{
   float: left;
-  margin: 0px 17px 0px 0px;
+  margin: -12px 17px 0px 0px;
 }
 
 h2{
